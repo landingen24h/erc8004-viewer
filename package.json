@@ -11,5 +11,5 @@
     "coverage": "node --test --experimental-test-coverage test/*.test.mjs"
   },
   "engines": { "node": ">=20" },
-  "dependencies": { "viem": "2.21.45" }
+  "dependencies": { "viem": "2.57.11" }
 }
