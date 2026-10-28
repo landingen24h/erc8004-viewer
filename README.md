@@ -1,5 +1,7 @@
 # erc8004-viewer
 
+[![CI](https://github.com/landingen24h/erc8004-viewer/actions/workflows/ci.yml/badge.svg)](https://github.com/landingen24h/erc8004-viewer/actions/workflows/ci.yml)
+
 A static page that shows an agent's ERC-8004 identity (its owner, its tokenURI and its registration file) and its reputation feedback, on Base and Base Sepolia. No backend, no key, no wallet connection.
 
 ## Files
